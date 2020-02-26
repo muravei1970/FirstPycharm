@@ -2,3 +2,5 @@
  uname_result(system='Windows', node='Andrey-pc', release='7', version='6.1.7601', machine='x86', processor='x86 Family 6 Model 28 Stepping 10, GenuineIntel') 
 
 Версия Python: 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 18 2019, 23:46:00) [MSC v.1916 32 bit (Intel)] ('32bit', 'WindowsPE')
+
+#BUBEN!!!
