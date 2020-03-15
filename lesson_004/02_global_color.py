@@ -18,7 +18,7 @@ colors = ({"Красный": sd.COLOR_RED, "Оранжевый": sd.COLOR_ORANGE
            "Зеленый": sd.COLOR_GREEN, "Голубой": sd.COLOR_CYAN, "Синий": sd.COLOR_BLUE, "Пурпурный": sd.COLOR_PURPLE})
 
 
-def polygon(start_point, angle, length, number_of_angles, color):
+def polygon(start_point, angle, length, number_of_angles, color=sd.COLOR_YELLOW):
     for _ in range(number_of_angles):
         vector = sd.get_vector(start_point=start_point, angle=angle, length=length)
         end_point = vector.end_point
